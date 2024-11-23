@@ -1,0 +1,114 @@
+{
+  "cart": [
+    {
+      "id": "1",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-1",
+      "price": "110 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce"
+    },
+    {
+      "id": "2",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-2",
+      "price": "120 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce"
+    },
+    {
+      "id": "3",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-3",
+      "price": "150 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce"
+    },
+    {
+      "id": "4",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-4",
+      "price": "100 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce"
+    }
+  ],
+  "cat": [
+    {
+      "id": "1",
+      "img": "e9e46d6503b1af4251a66afb588478fb.jpg",
+      "Type": "Vegetrain"
+    },
+    {
+      "id": "2",
+      "img": "e9e46d6503b1af4251a66afb588478fb.jpg",
+      "Type": "Meal"
+    },
+    {
+      "id": "3",
+      "img": "e9e46d6503b1af4251a66afb588478fb.jpg",
+      "Type": "Chicken"
+    },
+    {
+      "id": "4",
+      "img": "e9e46d6503b1af4251a66afb588478fb.jpg",
+      "Type": "Duble"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-1",
+      "price": "110 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Duble"
+    },
+    {
+      "id": "2",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-2",
+      "price": "120 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Vegetrain"
+    },
+    {
+      "id": "3",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-3",
+      "price": "150 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Meal"
+    },
+    {
+      "id": "4",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-4",
+      "price": "100 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Meal"
+    },
+    {
+      "id": "5",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-4",
+      "price": "100 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Chicken"
+    },
+    {
+      "id": "6",
+      "img": "a34a0afed94adb44b40d68910d5ddcf0.jpg",
+      "title": "pork shop with apple chutney-4",
+      "price": "100 EG",
+      "piecec": "4 piecec",
+      "spicy": "spicy sauce",
+      "slug": "Chicken"
+    }
+  ]
+}
